@@ -1,2 +1,8 @@
 # aws-sdk-cookbook
-Collection of snippets for AWS SDK
+
+![](https://i.imgur.com/bPQItee.png)
+
+Collection of some useful snippets for AWS SDK
+
+## Table of contents:
+1. [NodeJS script to retrieve Parameters from SSM Parameter Store](./get-parameters-from-ssm/)
