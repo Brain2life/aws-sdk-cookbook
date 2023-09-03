@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-ssm": "^3.405.0",
+    "aws-sdk": "^2.1450.0"
+  },
+  "name": "ssm-parameter-store",
+  "version": "1.0.0",
+  "description": "AWS SSM Parameter Store Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxat Akbanov",
+  "license": "ISC"
+}
